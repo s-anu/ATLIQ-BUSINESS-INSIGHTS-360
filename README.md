@@ -1,5 +1,5 @@
 
-# BUSINESS INSIGHTS 360
+# Business Insights 360
 
 This Power BI project was designed to address the business needs of AtliQ Hardware, a company operating in both e-commerce and retail sectors. By analyzing over 1 million data entries across finance, sales, marketing, and supply chain domains, the project delivers comprehensive insights that support informed decisions and drive strategic business growth
 
