@@ -4,7 +4,7 @@
 This Power BI project was designed to address the business needs of AtliQ Hardware, a company operating in both e-commerce and retail sectors. By analyzing over 1 million data entries across finance, sales, marketing, and supply chain domains, the project delivers comprehensive insights that support informed decisions and drive strategic business growth
 
 
-
+Live Link: [Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODNkNDZhMDUtMjdmZS00MjY4LWJiY2QtODM1MDI1YjcyYWRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Home page
 
